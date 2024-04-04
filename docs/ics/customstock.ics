@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:NPtoW_Z3tJKpJnUhdbP4A
+UID:nd6DNg45Lt2FeWuGzDAxN
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240305
 DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $9\
 	,936\,430\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gb1w_nH4bSKls9J_35eaV
+UID:Qhs1I-JPbQ3LUTHTJaTSU
 SUMMARY:京东 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240306
 DESCRIPTION:财务季度：Dec/2023。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $39\
 	,146\,275\,788。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SD6ydfneVZJZk5yLZF2Qh
+UID:kk2IJ7jESaXQIj0tvo5Hc
 SUMMARY:好市多 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240307
 DESCRIPTION:财务季度：Feb/2024。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $3.60，当前市值: $3
 	48\,668\,614\,738。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z3w81WUhHdn46IPtt_Zkn
+UID:WmVe_lii-D59msIUEyvO8
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240319
 DESCRIPTION:财务季度：Dec/2023。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $4\,238
 	\,787\,288。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b6LzOalNqLp877f7e0YfX
+UID:Ckg-R-mVRIgoYmJ5BlRLI
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240320
 DESCRIPTION:财务季度：Dec/2023。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.42，当前市值: $1
 	81\,486\,745\,945。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3YMHtM219ZDAGieOI_Ikd
+UID:lE-J3raauFsbTKhMpOOZf
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240418
 DESCRIPTION:财务季度：Mar/2024。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $4.49，当前市
-	值: $265\,805\,264\,088。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $272\,673\,158\,686。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ntb_naLL7lhB3zBUAA7y4
+UID:6sW89PIwF0hi70lhbZ9EN
 SUMMARY:微软 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $2.84，当前市值: $3
 	\,131\,483\,044\,349。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yWqlO3v0UQxNel3OEEief
+UID:IlM9bdtTCtrNUBKiGvnbm
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.46，当前市值:
 	 $530\,681\,626\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cOElD0t7RPUn66IrrpzIb
+UID:KoPTLyK7VuTZ_3O-FuxyG
 SUMMARY:英特尔 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240425
 DESCRIPTION:财务季度：Mar/2024。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.03)，当前市值:
-	 $185\,778\,320\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
+	 $170\,515\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
 	n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mFf8CC0bOMjYHRp83B9i-
+UID:rBEjPGG6CXelV_YhyS2rw
 SUMMARY:索尼 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240426
 DESCRIPTION:财务季度：Mar/2024。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.83，当前市值: $1
-	04\,998\,368\,911。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
+	05\,539\,787\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
 	途查看：https://www.futunn.com/hk/stock/SONY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n8oX4GBgZO3wQc4rTetyK
+UID:NTzW40GEFaa76GgWW_b-f
 SUMMARY:苹果公司 发布财报
-DTSTAMP:20240404T043938Z
+DTSTAMP:20240404T164026Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $1.50，当前市值: 
-	$2\,607\,207\,188\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
+	$2\,619\,715\,111\,650。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
 	 \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

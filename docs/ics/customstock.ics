@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:z9L0RxgXPanl1FqCwQ-lG
+UID:IjRmiKVY_tBNZvOXMBjyM
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20240709T164306Z
+DTSTAMP:20240710T044046Z
 DTSTART;VALUE=DATE:20240718
 DESCRIPTION:财务季度：Jun/2024。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $4.70，当前市
-	值: $297\,645\,971\,034。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $295\,529\,932\,928。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7mgTQgSRosoBwAxn7eCvj
+UID:VdkaR4akgx27HfOtu7pd2
 SUMMARY:微软 发布财报
-DTSTAMP:20240709T164306Z
+DTSTAMP:20240710T044046Z
 DTSTART;VALUE=DATE:20240723
 DESCRIPTION:财务季度：Jun/2024。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $2.90，当前市值: $3
-	\,475\,048\,897\,042。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,465\,238\,253\,394。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uom29CFQ_JK0m77o4Z2v4
+UID:hDudREZ98rdN_e8p_8tan
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20240709T164306Z
+DTSTAMP:20240710T044046Z
 DTSTART;VALUE=DATE:20240723
 DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.47，当前市值:
-	 $802\,146\,619\,923。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
+	 $806\,675\,278\,480。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
 	n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Nciz7L9_1wnS6OFKOXb1e
+UID:EDYOBoK0zHPQAu_eixn9y
 SUMMARY:英特尔 发布财报
-DTSTAMP:20240709T164306Z
+DTSTAMP:20240710T044046Z
 DTSTART;VALUE=DATE:20240725
 DESCRIPTION:财务季度：Jun/2024。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.12)，当前市值:
-	 $136\,309\,140\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
+	 $144\,695\,430\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
 	n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,13 +70,29 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:i-21iwyCBz30638bBmqJi
+UID:lzJa2BpLGus1PVrAir0wh
 SUMMARY:苹果公司 盘后发布财报
-DTSTAMP:20240709T164306Z
+DTSTAMP:20240710T044046Z
 DTSTART;VALUE=DATE:20240801
 DESCRIPTION:财务季度：Jun/2024。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $1.33，当前市值: 
 	$3\,493\,410\,561\,240。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
 	 \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:QzsMQ2k7ZnNkq_y-6dT3g
+SUMMARY:阿里巴巴 发布财报
+DTSTAMP:20240710T044046Z
+DTSTART;VALUE=DATE:20240808
+DESCRIPTION:财务季度：Jun/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.91，当前市值: 
+	$178\,872\,603\,945。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM

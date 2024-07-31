@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bZqdN9oKWTfM4t2Ez4RBJ
+UID:_2p8SIY5KsqW1O0hI74o2
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240718
 DESCRIPTION:财务季度：Jun/2024。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $4.70，当前市
 	值: $279\,032\,593\,072。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TuyvzPXUYBQYwUNyLJwCe
+UID:2KbuOU7eojgJ52y7HTVQy
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240723
 DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.46，当前市值:
 	 $785\,754\,151\,625。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ncNd51d7xIKyvbaFTK2ed
-SUMMARY:微软 盘后发布财报
-DTSTAMP:20240731T043903Z
+UID:N7eaCDAguH-2Z38LLTkds
+SUMMARY:微软 发布财报
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240730
 DESCRIPTION:财务季度：Jun/2024。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $2.90，当前市值: $3
 	\,171\,587\,851\,473。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X5-lwk2261I9nF-giOa0D
+UID:dB5Cb2d3CFxAztnYOtDmo
 SUMMARY:苹果公司 盘后发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240801
 DESCRIPTION:财务季度：Jun/2024。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $1.34，当前市值: 
 	$3\,346\,510\,055\,680。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ha4YzkTDBV7nrAXO-075q
+UID:uo5uAV13aSTzkhen5eZNP
 SUMMARY:英特尔 盘后发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240801
 DESCRIPTION:财务季度：Jun/2024。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.11)，当前市值:
 	 $131\,243\,310\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:E-MCCP6pluKyPfTY2iW8r
+UID:2wknv8KTwxIu4JhDvPT9g
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240808
 DESCRIPTION:财务季度：Jun/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.91，当前市值: 
 	$191\,332\,845\,199。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sLnB4ave_4mQEkUNGm18q
+UID:GUW7qJzo0A7kgWxRIqpiB
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240813
 DESCRIPTION:财务季度：Jun/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $20\,198\
 	,755\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BjjPjpHji1hv4Ul2w7fvF
+UID:60gAk8YtS8sYYtelYxvR3
 SUMMARY:索尼 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240814
 DESCRIPTION:财务季度：Jun/2024。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $1.08，当前市值: $1
 	05\,533\,183\,750。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gdHsUynijA9atF7KsjTxh
+UID:Z7FJIlJv1Xk47twbmfL9m
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240816
-DESCRIPTION:财务季度：Jun/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $7\,768
-	\,000\,769。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
+DESCRIPTION:财务季度：Jun/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $7\,485
+	\,185\,207。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4WB1u7Rl2T3onv98CZUt6
+UID:WJxch0oPKNAyXtaG3JGVj
 SUMMARY:京东 发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240821
 DESCRIPTION:财务季度：Jun/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.79，当前市值: $41\
 	,834\,062\,215。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dkVvQ6OxjpOF_RcaTOmqs
+UID:AIX-GkbFyMhhCxRpBdF0m
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20240731T043903Z
+DTSTAMP:20240731T164248Z
 DTSTART;VALUE=DATE:20240822
 DESCRIPTION:财务季度：Jun/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $2.24，当前市值: $31
 	\,733\,727\,712。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查

@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:eZWhj9dqpirm_xb5yoEE0
+UID:aTeQEHV6muGSI6Givc8nE
 SUMMARY:家得宝 发布财报
-DTSTAMP:20240911T044434Z
+DTSTAMP:20240911T164507Z
 DTSTART;VALUE=DATE:20240813
 DESCRIPTION:财务季度：Jul/2024。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $4.54，当前市值: $342\
 	,910\,101\,660。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gHoHTFbsXXjD7BQpV0kSr
+UID:4tSNiOpBSAWcbFXE4cxe7
 SUMMARY:思科系统 发布财报
-DTSTAMP:20240911T044434Z
+DTSTAMP:20240911T164507Z
 DTSTART;VALUE=DATE:20240814
 DESCRIPTION:财务季度：Jul/2024。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.70，当前市值:
 	 $183\,069\,343\,421。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KuXcg9UllAds6digfaWJe
+UID:n26Igf0hwC8p1TknXHN7N
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20240911T044434Z
+DTSTAMP:20240911T164507Z
 DTSTART;VALUE=DATE:20240815
 DESCRIPTION:财务季度：Jul/2024。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $588
 	\,626\,500\,889。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GD-fag0znJ8RQr-aZlok6
+UID:RjcjQXtMWLmLWWGy1kV1I
 SUMMARY:赛富时 发布财报
-DTSTAMP:20240911T044434Z
+DTSTAMP:20240911T164507Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jul/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.73，当前市值: $2
 	50\,874\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -70,29 +70,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IiD2SQmORTfU5UTXJC2iU
+UID:_FmaZzcWjQB0bpe4WS3-0
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20240911T044434Z
+DTSTAMP:20240911T164507Z
 DTSTART;VALUE=DATE:20241001
-DESCRIPTION:财务季度：Aug/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.52，当前市值: $120\
-	,893\,311\,654。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
+DESCRIPTION:财务季度：Aug/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.52，当前市值: $117\
+	,084\,939\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
 	https://www.futunn.com/hk/stock/NKE-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0rxcfpc2fOIJgXY6dzHu2
-SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20240911T044434Z
-DTSTART;VALUE=DATE:20241010
-DESCRIPTION:财务季度：Aug/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.36，当前市
-	值: $7\,570\,922\,074。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
-	在富途查看：https://www.futunn.com/hk/stock/WBA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM

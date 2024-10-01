@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:uwBufN85uUHSiXsSYMFbb
+UID:pf-CnAcg7MtwKMhI-Pdnf
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20240905
 DESCRIPTION:财务季度：Jun/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.46)，当前市值: $8\
 	,849\,596\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0eNyYkOfeP32eRm-Wxyz9
+UID:bVz8IAdPJz7D4nfzNqRo1
 SUMMARY:好市多 盘后发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20240926
 DESCRIPTION:财务季度：Aug/2024。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $5.05，当前市值: $4
 	02\,734\,402\,502。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JxtXfrU-DB8cmMadWsD3Z
+UID:0XaaJGOgtTS78E3PW8qtW
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20241016
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.46，当前市值:
-	 $812\,141\,486\,301。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
+	 $832\,076\,042\,490。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \
 	n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v5TcG8xOwNShFf0EttnBj
+UID:n55gqr-yK2XI2O_XcBdiy
 SUMMARY:Netflix 盘前发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $5.07，当前市
-	值: $305\,320\,582\,049。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $303\,569\,590\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bND8j1LslpsPMCs4YepuR
+UID:t4wMVZII34maAXUu5Bdih
 SUMMARY:微软 发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20241022
 DESCRIPTION:财务季度：Sep/2024。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $3.08，当前市值: $3
-	\,205\,943\,784\,109。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,181\,489\,087\,835。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dOEnPLm4nrV5i3yd4nnIl
+UID:gsWoTD1krP8PvE2dVxQ3i
 SUMMARY:英特尔 发布财报
-DTSTAMP:20240930T164810Z
+DTSTAMP:20241001T044423Z
 DTSTART;VALUE=DATE:20241024
 DESCRIPTION:财务季度：Sep/2024。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.20)，当前市值:
-	 $102\,281\,920\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
+	 $102\,239\,160\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
 	n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

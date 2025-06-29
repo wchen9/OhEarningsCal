@@ -6,41 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:o3WRDC0c4bIrNELiG3jhw
-SUMMARY:好市多 发布财报
-DTSTAMP:20250628T164829Z
-DTSTART;VALUE=DATE:20250529
-DESCRIPTION:财务季度：May/2025。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $4.25，当前市值: $4
-	47\,561\,149\,540。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
-	途查看：https://www.futunn.com/hk/stock/COST-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:zIYoBAGOtkqPZWQ2zk8hf
-SUMMARY:理想汽车 发布财报
-DTSTAMP:20250628T164829Z
-DTSTART;VALUE=DATE:20250529
-DESCRIPTION:财务季度：Mar/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $30\,149\
-	,861\,474。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
-	//www.futunn.com/hk/stock/LI-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:GZkallCb1meh2hEedIMJG
+UID:M91Ra9xkrmxsl5eL1UhAL
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250628T164829Z
+DTSTAMP:20250629T045923Z
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:财务季度：Mar/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.22)，当前市值: $7\
 	,928\,346\,811。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -54,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N5kzGkAme1TbS3EoCfvST
+UID:a4qTyIz-mtnPhW3HJToSy
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20250628T164829Z
+DTSTAMP:20250629T045923Z
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:财务季度：Jun/2025。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $7.05，当前市
 	值: $556\,227\,480\,011。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -70,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:07DrpNwb-BkOuwKUExBQf
+UID:DJNltvE2QqCAUhcju6MeO
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20250628T164829Z
+DTSTAMP:20250629T045923Z
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:财务季度：Jun/2025。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.31，当前市值:
 	 $1\,049\,323\,114\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL

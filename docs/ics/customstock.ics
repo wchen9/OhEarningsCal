@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:FPsQyhtIcjuo1o03Axxno
+UID:REt2exC5-dj5obuxnm9Gr
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $0.55，当前市
 	值: $372\,884\,453\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N2In4SalaMIGsy2NQx_vO
+UID:dJ746xASBxh3bv586_VXD
 SUMMARY:英特尔 发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:财务季度：Dec/2025。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: ($0.02)，当前市值:
 	 $249\,425\,306\,650。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Cz5jwJhuv0QvEthjLJLgg
+UID:zzp3U8V15VpIOOMKz5HXE
 SUMMARY:微软 盘后发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $3.88，当前市值: $3
 	\,571\,852\,053\,440。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:irGu---LSbMOFakJHR4v-
+UID:ivBkVkTAe19KQPx7QuJ86
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.33，当前市值:
 	 $1\,433\,095\,479\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nnv0EFsRelpj92S1nJQpw
+UID:kudtOK-aHPaLqkmsdXrlx
 SUMMARY:苹果公司 发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260129
 DESCRIPTION:财务季度：Dec/2025。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $2.65，当前市值: 
 	$3\,796\,180\,327\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dSiIxujsegNPW5tFkVdrZ
+UID:9nIYUdQqTcjfnhAMiAKU8
 SUMMARY:索尼 发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260212
 DESCRIPTION:财务季度：Dec/2025。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.34，当前市值: $1
-	34\,297\,301\,156。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
+	33\,152\,550\,720。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
 	途查看：https://www.futunn.com/hk/stock/SONY-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YdzW4FMA3053Rw7feBB04
+UID:ulwO9nJ5TmF3s9-QHqZnL
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260219
 DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.73，当前市值: 
-	$402\,391\,946\,602。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$391\,561\,425\,916。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SJBh67HPlq3Zvb2LAhjAi
+UID:ReZvulaSvFzZiLpgngpXR
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20260202T054738Z
+DTSTAMP:20260202T171119Z
 DTSTART;VALUE=DATE:20260226
-DESCRIPTION:财务季度：Dec/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.12，当前市值: $54
-	\,147\,353\,829。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+DESCRIPTION:财务季度：Dec/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.12，当前市值: $52
+	\,658\,825\,849。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:n2rCtJNApivF3GPF2im5X
+UID:tGOOFMZvpYoetAh8kQj2S
 SUMMARY:京东 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260813
 DESCRIPTION:财务季度：Jun/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.77，当前市值: $40\
 	,018\,547\,448。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uaUGV-gi3GdM0nbywKRPi
+UID:1cwH1TSU9eMF3OJwr1VSz
 SUMMARY:百度 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260818
 DESCRIPTION:财务季度：Jun/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.19，当前市值: $30
 	\,918\,759\,123。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3XXZ2YpqBL1YB3LZZiOFr
+UID:rE0tyvdChHiJzLF2_I4Cv
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260820
 DESCRIPTION:财务季度：Jun/2026。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.78，当前市值: 
 	$304\,622\,562\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bqcNqaiA_qkRxEuU7kC6_
+UID:BwGzqFP5KZFyzo68XWDWx
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260824
 DESCRIPTION:财务季度：Jun/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.69，当前市值: $1
 	23\,935\,129\,946。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:30914j1iCO4bY3WoPev4g
+UID:5K5I2U3Xgfaj3Za4rtxHU
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260824
 DESCRIPTION:财务季度：Jun/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $10\,65
 	7\,496\,695。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4tleny-uDR6BLrNsEZ4zI
+UID:Mw2Yvl7iHEr1bnxdEBh90
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jun/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ($0.01)，当前市值: $1
 	1\,037\,233\,418。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T94ILvhVHBAKKBXB56plZ
-SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20260902T085927Z
+UID:BPMPOumkBOzxenu9prRsg
+SUMMARY:蔚来 发布财报
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
-	\,598\,971\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
+	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
 	：https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fSjuF0QdbuwBsvH2KcPCw
+UID:7XIidZGuZQka4APHGfziZ
 SUMMARY:好市多 盘后发布财报
-DTSTAMP:20260902T085927Z
+DTSTAMP:20260902T192859Z
 DTSTART;VALUE=DATE:20260924
 DESCRIPTION:财务季度：Aug/2026。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $6.51，当前市值: $4
-	18\,595\,209\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
+	16\,852\,345\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
 	途查看：https://www.futunn.com/hk/stock/COST-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

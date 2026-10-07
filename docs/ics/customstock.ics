@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:BzZRNDQJ4VsqC3czcXbqz
+UID:Fu_ZyvCF6NOleihwBKkWd
 SUMMARY:好市多 发布财报
-DTSTAMP:20261006T211102Z
+DTSTAMP:20261007T111838Z
 DTSTART;VALUE=DATE:20260924
 DESCRIPTION:财务季度：Aug/2026。\n代码：COST，公司：好市多，行业: 必需品。\n预计每股收益: $6.48，当前市值: $3
 	97\,569\,884\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COST \n在富
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q7X5xuJ_34ttoApLl8bsQ
+UID:xf66M7I1jTH_gfHxva610
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20261006T211102Z
+DTSTAMP:20261007T111838Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $0.82，当前市
-	值: $281\,065\,914\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $286\,021\,026\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,28 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cJddVMb47OG1Yn-uB45WN
-SUMMARY:英特尔 发布财报
-DTSTAMP:20261006T211102Z
-DTSTART;VALUE=DATE:20261022
-DESCRIPTION:财务季度：Sep/2026。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: $0.27，当前市值: $
-	614\,072\,250\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
-	富途查看：https://www.futunn.com/hk/stock/INTC-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:t5sP77_fTMbNOaftYIWqi
-SUMMARY:特斯拉 发布财报
-DTSTAMP:20261006T211102Z
-DTSTART;VALUE=DATE:20261028
+UID:fvVHanm3QtbDssSQ_DlCa
+SUMMARY:特斯拉 盘后发布财报
+DTSTAMP:20261007T111838Z
+DTSTART;VALUE=DATE:20261021
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.24，当前市值:
-	 $1\,495\,812\,150\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
+	 $1\,503\,513\,670\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
 	A \n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +54,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kPOiyjX_PMd3bmlYVxdSO
+UID:z6CVosOORAwmO9Kjj8d3e
+SUMMARY:英特尔 发布财报
+DTSTAMP:20261007T111838Z
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:财务季度：Sep/2026。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: $0.27，当前市值: $
+	594\,570\,310\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
+	富途查看：https://www.futunn.com/hk/stock/INTC-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jQ8OSkZWnokEE1JgnUFUd
 SUMMARY:苹果公司 发布财报
-DTSTAMP:20261006T211102Z
+DTSTAMP:20261007T111838Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $1.98，当前市值: 
-	$4\,858\,256\,600\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
+	$4\,869\,056\,400\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
 	 \n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7q1QiFZxvOwcGlD-tZfFS
+UID:593TJvw7nYeso5MwXeAoO
 SUMMARY:微软 发布财报
-DTSTAMP:20261006T211102Z
+DTSTAMP:20261007T111838Z
 DTSTART;VALUE=DATE:20261104
-DESCRIPTION:财务季度：Sep/2026。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $4.70，当前市值: $3
-	\,899\,747\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+DESCRIPTION:财务季度：Sep/2026。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $4.71，当前市值: $3
+	\,930\,341\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
